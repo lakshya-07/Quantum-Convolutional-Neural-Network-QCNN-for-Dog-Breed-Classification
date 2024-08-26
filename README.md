@@ -44,7 +44,7 @@ The primary goal of this project is to evaluate the performance of QCNNs in clas
 3. **Run the Model**:
     Execute the Python script to train and evaluate the QCNN model:
     ```bash
-    python model.py
+    python qcnn_dog_breed_classification.py
     ```
 
 ## Limitations
