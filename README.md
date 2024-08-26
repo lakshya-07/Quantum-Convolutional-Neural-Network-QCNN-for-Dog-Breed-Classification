@@ -38,7 +38,7 @@ The primary goal of this project is to evaluate the performance of QCNNs in clas
 2. **Install Dependencies**:
     Make sure to install the necessary libraries. You can use `pip` to install them:
     ```bash
-    pip install tensorflow keras opencv-python numpy
+    pip install tensorflow keras opencv-python numpy qiskit qiskit_algorithms qiskit_machine_learning.algorithms 
     ```
 
 3. **Run the Model**:
