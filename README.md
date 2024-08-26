@@ -14,7 +14,7 @@ The primary goal of this project is to evaluate the performance of QCNNs in clas
 
 ## Project Details
 
-- **Dataset**: ImageNet dataset with images categorized into the following breeds: German_Shepherd_dir, Border_Terrier_dir, Briard_dir, English_Foxhound_dir, and Ibizan_Hound_dir.
+- **Dataset**: ILSVRC2012 ImageNet dataset with images categorized into the following breeds: German_Shepherd_dir, Border_Terrier_dir, Briard_dir, English_Foxhound_dir, and Ibizan_Hound_dir.
 - **Accuracy**: The model achieved an accuracy of 27.35% on the training data. Please note that this accuracy is relatively low due to the computational limitations of running quantum algorithms on classical hardware.
 - **Tools and Libraries**:
   - Quantum Computing Framework: Qiskit
@@ -25,7 +25,7 @@ The primary goal of this project is to evaluate the performance of QCNNs in clas
 
 - **`qcnn_dog_breed_classification.html`**: A detailed HTML file with the model architecture and training process.
 - **`qcnn_dog_breed_classification.py`**: Python code implementing the Quantum Convolutional Neural Network (QCNN).
-- **Training and Validation Images**: Images used for training and validation.
+- **Training and Validation Images**: ILSVRC2012 Images used for training and validation. (https://www.image-net.org/index.php)
 
 ## Installation and Usage
 
