@@ -15,7 +15,7 @@ The primary goal of this project is to evaluate the performance of QCNNs in clas
 ## Project Details
 
 - **Dataset**: ILSVRC2012 ImageNet dataset with images categorized into the following breeds: German_Shepherd_dir, Border_Terrier_dir, Briard_dir, English_Foxhound_dir, and Ibizan_Hound_dir.
-- **Accuracy**: The model achieved an accuracy of 27.35% on the training data. Please note that this accuracy is relatively low due to the computational limitations of running quantum algorithms on classical hardware.
+- **Accuracy**: Although the accuracy on the training data was 27.35% (understandably low given the computational demands of quantum algorithms on standard hardware), the experience has been immensely rewarding.
 - **Tools and Libraries**:
   - Quantum Computing Framework: Qiskit
   - Classical Machine Learning Libraries: TensorFlow, Keras
