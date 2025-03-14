@@ -49,7 +49,7 @@ The primary goal of this project is to evaluate the performance of QCNNs in clas
 
 ## Limitations
 
-The quantum computations involved in this project are resource-intensive and can be time-consuming when run on classical hardware. Future work will involve optimizing these computations and exploring potential improvements through quantum hardware advancements.
+The quantum computations required for this project are highly resource-intensive and time-consuming when executed on classical hardware. Consequently, the model exhibits low training accuracy, which can be significantly improved by utilizing more advanced hardware with greater computational power.
 
 ## References
 
